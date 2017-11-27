@@ -35,7 +35,7 @@
 然后您可以使用下面的命令来安装这个项目模板:
 
 ```
-composer create-project --prefer-dist --stability=dev daimakuai/daimakuai-app-advanced
+composer create-project --prefer-dist --stability=dev daimakuai/daimakuai-app-advanced  -vvv
 
 
 php artisan vendor:publish --provider="Jblv\Admin\AdminServiceProvider"
@@ -86,7 +86,7 @@ at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 You can then install this project template using the following command:
 
 ```
-composer create-project --prefer-dist --stability=dev daimakuai/daimakuai-app-base
+composer create-project --prefer-dist --stability=dev daimakuai/daimakuai-app-advanced  -vvv
 
 
 php artisan vendor:publish --provider="Jblv\Admin\AdminServiceProvider"
