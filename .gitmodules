@@ -1,0 +1,3 @@
+[submodule "vendor/jblv/daimakuai"]
+	path = vendor/jblv/daimakuai
+	url = https://code.aliyun.com/verylove/daimakuai.git
